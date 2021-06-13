@@ -1,0 +1,33 @@
+
+DataStore_InventoryDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["Inventory"] = {
+					nil, -- [1]
+					nil, -- [2]
+					6685, -- [3]
+					859, -- [4]
+					"|cff1eff00|Hitem:9791:16:0:0:0:0:176:0:26|h[Ivycloth Tunic of Intellect]|h|r", -- [5]
+					6392, -- [6]
+					10048, -- [7]
+					4312, -- [8]
+					3645, -- [9]
+					"|cff0070dd|Hitem:5195:16:0:0:0:0:0:0:26|h[Gold-flecked Gloves]|h|r", -- [10]
+					"|cff1eff00|Hitem:11982:0:0:0:0:0:758:0:26|h[Viridian Band of the Owl]|h|r", -- [11]
+					1319, -- [12]
+					nil, -- [13]
+					nil, -- [14]
+					"|cff0070dd|Hitem:51994:0:0:0:0:0:-85:8:26|h[Tumultuous Cloak of the Sorcerer]|h|r", -- [15]
+					5201, -- [16]
+					[18] = 5246,
+				},
+				["averageItemLvl"] = 24.41666666666667,
+				["lastUpdate"] = 1622354102,
+			},
+		},
+	},
+}

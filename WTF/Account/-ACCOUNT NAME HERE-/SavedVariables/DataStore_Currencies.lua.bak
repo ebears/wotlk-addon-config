@@ -1,0 +1,13 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["lastUpdate"] = 1622354102,
+			},
+		},
+	},
+}

@@ -1,0 +1,9 @@
+## Interface: 30000
+
+## Title: ButtonFacade: |cffff8000LiteFlat|r
+## Notes: LiteFlat skin for Button Facade.
+## Version: 3.0.2
+## X-Category: Action Bars
+## OptionalDeps: LibButtonFacade, ButtonFacade
+
+Skins.lua

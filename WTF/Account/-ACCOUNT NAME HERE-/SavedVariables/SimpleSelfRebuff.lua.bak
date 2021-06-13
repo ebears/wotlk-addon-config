@@ -1,0 +1,16 @@
+
+SimpleSelfRebuffDB = {
+	["namespaces"] = {
+		["CastBinding"] = {
+		},
+		["Reminder"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Rayne - ChromieCraft"] = "Rayne - ChromieCraft",
+	},
+	["profiles"] = {
+		["Rayne - ChromieCraft"] = {
+		},
+	},
+}

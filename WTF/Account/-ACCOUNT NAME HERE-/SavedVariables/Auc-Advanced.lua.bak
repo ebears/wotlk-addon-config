@@ -1,0 +1,23 @@
+
+AucAdvancedConfig = {
+	["profile.Default"] = {
+		["stat.sales.ignoredsigs"] = {
+		},
+	},
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["ChromieCraft"] = "Rayne",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+		},
+		["Current"] = {
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}

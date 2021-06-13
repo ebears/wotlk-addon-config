@@ -1,0 +1,32 @@
+
+SkadaDB = {
+	["global"] = {
+		["version"] = 1846,
+		["nicknames"] = {
+			["nicknames"] = {
+			},
+			["nextreset"] = 1623293296,
+		},
+		["themes"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["namedisplay"] = 2,
+			["modules"] = {
+				["interruptchannel"] = "SAY",
+			},
+			["prepotion"] = true,
+			["windows"] = {
+				{
+					["barcolor"] = {
+						["a"] = 0.85,
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

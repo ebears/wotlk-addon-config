@@ -1,0 +1,11 @@
+
+MagnetDB = {
+	["profileKeys"] = {
+		["Rayne - ChromieCraft"] = "Default",
+	},
+	["char"] = {
+		["Rayne - ChromieCraft"] = {
+			["attractPickPocket"] = false,
+		},
+	},
+}

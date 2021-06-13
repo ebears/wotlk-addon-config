@@ -1,0 +1,67 @@
+
+DataStore_QuestsDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["QuestLinks"] = {
+					nil, -- [1]
+					"|cffff8040|Hquest:2924:30|h[Essential Artificials]|h|r", -- [2]
+					nil, -- [3]
+					"|cff808080|Hquest:255:19|h[Mercenaries]|h|r", -- [4]
+					"|cff40c040|Hquest:256:22|h[WANTED: Chok'sul]|h|r", -- [5]
+					nil, -- [6]
+					"|cff40c040|Hquest:94:21|h[A Watchful Eye]|h|r", -- [7]
+					"|cffffff00|Hquest:128:25|h[Blackrock Bounty]|h|r", -- [8]
+					nil, -- [9]
+					"|cffffff00|Hquest:1078:26|h[Retrieval for Mauren]|h|r", -- [10]
+					nil, -- [11]
+					"|cffffff00|Hquest:347:24|h[Rethban Ore]|h|r", -- [12]
+					nil, -- [13]
+					"|cff40c040|Hquest:166:22|h[The Defias Brotherhood]|h|r", -- [14]
+					nil, -- [15]
+					"|cffffff00|Hquest:386:25|h[What Comes Around...]|h|r", -- [16]
+					"|cffffff00|Hquest:387:26|h[Quell The Uprising]|h|r", -- [17]
+					"|cffffff00|Hquest:388:26|h[The Color of Blood]|h|r", -- [18]
+					"|cffff8040|Hquest:391:29|h[The Stockade Riots]|h|r", -- [19]
+					nil, -- [20]
+					"|cffffff00|Hquest:288:27|h[The Third Fleet]|h|r", -- [21]
+					"|cffff8040|Hquest:303:30|h[The Dark Iron War]|h|r", -- [22]
+				},
+				["lastUpdate"] = 1622354102,
+				["Rewards"] = {
+					[10] = "r|6677|1|1",
+					[5] = "c|6189|1|0,c|6191|1|1,r|1449|1|1",
+					[14] = "c|6087|1|0,c|2041|1|0,c|2042|1|1",
+					[16] = "c|3400|1|1,c|1317|1|1",
+				},
+				["Quests"] = {
+					"0|Gnomeregan", -- [1]
+					"1|Dungeon|0|5500|0", -- [2]
+					"0|Loch Modan", -- [3]
+					"1||0|1100|0", -- [4]
+					"1|Group|0|0|0", -- [5]
+					"0|Redridge Mountains", -- [6]
+					"1||0|0|1", -- [7]
+					"1||0|1800|0", -- [8]
+					"0|Stonetalon Mountains", -- [9]
+					"1||0|0|0", -- [10]
+					"0|Stormwind City", -- [11]
+					"1||0|0|0", -- [12]
+					"0|The Deadmines", -- [13]
+					"1|Dungeon|0|0|0", -- [14]
+					"0|The Stockade", -- [15]
+					"1|Dungeon|0|0|0", -- [16]
+					"1|Dungeon|0|6000|0", -- [17]
+					"1|Dungeon|0|6000|0", -- [18]
+					"1|Dungeon|0|2500|0", -- [19]
+					"0|Wetlands", -- [20]
+					"1||0|0|0", -- [21]
+					"1||0|2500|0", -- [22]
+				},
+			},
+		},
+	},
+}

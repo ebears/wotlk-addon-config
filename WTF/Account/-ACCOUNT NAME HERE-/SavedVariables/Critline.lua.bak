@@ -1,0 +1,22 @@
+
+CritlineDB = {
+	["namespaces"] = {
+		["splash"] = {
+		},
+		["display"] = {
+		},
+		["minimap"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["filters"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Rayne - ChromieCraft"] = "Rayne - ChromieCraft",
+	},
+	["profiles"] = {
+		["Rayne - ChromieCraft"] = {
+		},
+	},
+}

@@ -1,0 +1,18 @@
+
+ZygorTalentAdvisorSettings = {
+	["char"] = {
+		["Rayne - ChromieCraft"] = {
+			["debuglog"] = {
+				"03:32:23> Viewer started. ---------------------------", -- [1]
+				"03:32:25> PLAYER_ALIVE", -- [2]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Rayne - ChromieCraft"] = "Rayne - ChromieCraft",
+	},
+	["profiles"] = {
+		["Rayne - ChromieCraft"] = {
+		},
+	},
+}

@@ -1,0 +1,111 @@
+
+DataStore_ContainersDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["lastUpdate"] = 1622354102,
+				["Containers"] = {
+					["Bag4"] = {
+						["ids"] = {
+							2888, -- [1]
+							2996, -- [2]
+							17031, -- [3]
+							nil, -- [4]
+							nil, -- [5]
+							4306, -- [6]
+							4305, -- [7]
+							14404, -- [8]
+						},
+						["link"] = "|cffffffff|Hitem:5573:0:0:0:0:0:0:0:26|h[Green Leather Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_03",
+						["size"] = 8,
+						["counts"] = {
+							9, -- [1]
+							4, -- [2]
+							16, -- [3]
+							[6] = 3,
+							[7] = 6,
+						},
+						["freeslots"] = 2,
+					},
+					["Bag0"] = {
+						["ids"] = {
+							1697, -- [1]
+							3685, -- [2]
+							5635, -- [3]
+							3780, -- [4]
+							3780, -- [5]
+							2913, -- [6]
+							1775, -- [7]
+							2589, -- [8]
+							7092, -- [9]
+							1697, -- [10]
+							4461, -- [11]
+							5241, -- [12]
+							1772, -- [13]
+							3682, -- [14]
+							2592, -- [15]
+							1799, -- [16]
+						},
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["size"] = 16,
+						["counts"] = {
+							10, -- [1]
+							13, -- [2]
+							2, -- [3]
+							[8] = 3,
+							[15] = 2,
+						},
+					},
+					["Bag1"] = {
+						["link"] = "|cffffffff|Hitem:3352:0:0:0:0:0:0:0:26|h[Ooze-covered Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_10_Green",
+						["size"] = 10,
+						["freeslots"] = 10,
+					},
+					["Bag2"] = {
+						["link"] = "|cffffffff|Hitem:1537:0:0:0:0:0:0:0:26|h[Old Blanchy's Feed Pouch]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_10",
+						["size"] = 8,
+						["freeslots"] = 8,
+					},
+					["Bag3"] = {
+						["ids"] = {
+							nil, -- [1]
+							6948, -- [2]
+							1083, -- [3]
+							9278, -- [4]
+							6256, -- [5]
+							9308, -- [6]
+							6888, -- [7]
+							6888, -- [8]
+						},
+						["link"] = "|cffffffff|Hitem:4498:0:0:0:0:0:0:0:26|h[Brown Leather Satchel]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_09",
+						["size"] = 8,
+						["counts"] = {
+							[4] = 2,
+							[8] = 5,
+							[6] = 5,
+							[7] = 20,
+						},
+						["freeslots"] = 1,
+					},
+					["Bag-2"] = {
+						["ids"] = {
+							6893, -- [1]
+						},
+						["icon"] = "Interface\\Icons\\INV_Misc_Key_14",
+						["size"] = 32,
+					},
+				},
+				["numFreeBagSlots"] = 21,
+				["numBagSlots"] = 50,
+			},
+		},
+		["Version"] = 1,
+	},
+}

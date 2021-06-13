@@ -1,0 +1,30 @@
+
+PeggleData = {
+	["settings"] = {
+		["openLogIn"] = true,
+		["openDeath"] = true,
+		["defaultPublish"] = "GUILD",
+		["closeCombat"] = true,
+		["mouseOffTrans"] = 0.6,
+		["mouseOnTrans"] = 1,
+		["inviteRaid"] = false,
+		["openDuel"] = true,
+		["hideOutdated"] = false,
+		["closeReadyCheck"] = true,
+		["minimapAngle"] = 270,
+		["closeDuelComplete"] = false,
+		["soundVolume"] = 0,
+		["openFlightStart"] = true,
+		["inviteDecline"] = false,
+		["closeFlightEnd"] = false,
+		["inviteMinimap"] = true,
+		["inviteChat"] = true,
+		["closePeggleLoot"] = false,
+		["showMinimapIcon"] = true,
+	},
+	["recent"] = {
+	},
+	["version"] = 1.021,
+	["data"] = "<LDh7ZuSBGE6APRLOX62;@OLC=@JN039DTB1@L2286=NIRLS0=JYZQ?N8H`P7Vmr=h7ZuSBG",
+	["loggedIn"] = "Lavinia",
+}

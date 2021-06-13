@@ -1,0 +1,43 @@
+
+DataStore_SkillsDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["lastUpdate"] = 1622354102,
+				["Skills"] = {
+					["Secondary Skills"] = {
+						["Fishing"] = "14|75",
+						["Riding"] = "75|75",
+						["Cooking"] = "64|150",
+					},
+					["Class Skills"] = {
+						["Frost"] = "1|1",
+						["Fire"] = "1|1",
+					},
+					["Professions"] = {
+						["Herbalism"] = "34|75",
+						["Tailoring"] = "132|225",
+					},
+					["Languages"] = {
+						["Language: Gnomish"] = "300|300",
+						["Language: Common"] = "300|300",
+					},
+					["Armor Proficiencies"] = {
+						["Cloth"] = "1|1",
+					},
+					["Weapon Skills"] = {
+						["Staves"] = "75|130",
+						["Swords"] = "1|130",
+						["Wands"] = "108|130",
+						["Daggers"] = "1|130",
+						["Unarmed"] = "1|130",
+						["Defense"] = "127|130",
+					},
+				},
+			},
+		},
+	},
+}

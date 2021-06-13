@@ -1,0 +1,181 @@
+
+QuestHelper_Pref = {
+	["submit_nag_next_time"] = 1623753385.64153,
+	["submit_nag_type"] = "OFF",
+}
+QuestHelper_UID = "8WV5sZBB4GJWeDv45Fuvh7yvF3qB3keM"
+QuestHelper_SaveDate = 1623051141
+QuestHelper_Errors = {
+	["version"] = 1,
+}
+QuestHelper_Collector = {
+	["1.4.0 on 3.3.5/enUS/1"] = {
+		["monster"] = {
+		},
+		["warp"] = {
+		},
+		["flight_times"] = {
+		},
+		["modified"] = 1623051145,
+		["flight_master"] = {
+		},
+		["achievement"] = {
+		},
+		["fishing"] = {
+		},
+		["item"] = {
+			[7586] = {
+				["open_no"] = 2,
+				["type"] = "Quest/Quest",
+				["name"] = "Tharnariun's Hope",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+		},
+		["realms"] = {
+			["ChromieCraft"] = 1,
+		},
+		["worldloot"] = {
+		},
+		["object"] = {
+		},
+		["quest"] = {
+			[4740] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "WANTED: Murkdeep!",
+				["criteria_1_text"] = "Murkdeep slain: 0/1",
+				["special_item"] = false,
+				["level"] = 18,
+				["items_choice"] = {
+					[15404] = 1,
+					[15403] = 1,
+					[5315] = 1,
+				},
+				["criteria_1_type"] = "monster",
+			},
+			[954] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Bashal'Aran",
+				["level"] = 12,
+				["special_item"] = false,
+			},
+			[1001] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Buzzbox 411",
+				["criteria_1_text"] = "Thresher Eye: 3/3",
+				["special_item"] = false,
+				["level"] = 12,
+				["criteria_1_type"] = "item",
+			},
+			[958] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Tools of the Highborne",
+				["criteria_1_text"] = "Highborne Relic: 0/7",
+				["special_item"] = false,
+				["criteria_1_type"] = "item",
+				["items_reward"] = {
+					[5612] = 1,
+				},
+				["level"] = 12,
+			},
+			[1141] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "The Family and the Fishing Pole",
+				["criteria_1_text"] = "Darkshore Grouper: 0/6",
+				["special_item"] = false,
+				["criteria_1_type"] = "item",
+				["items_reward"] = {
+					[12225] = 1,
+				},
+				["level"] = 14,
+			},
+			[2118] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Plagued Lands",
+				["criteria_1_text"] = "Rabid Thistle Bear Captured: 0/1",
+				["special_item"] = 7586,
+				["level"] = 14,
+				["criteria_1_type"] = "monster",
+			},
+			[2498] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Return to Denalan",
+				["level"] = 9,
+				["special_item"] = false,
+			},
+			[2518] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Tears of the Moon",
+				["criteria_1_text"] = "Silvery Spinnerets: 0/1",
+				["special_item"] = false,
+				["level"] = 12,
+				["criteria_1_type"] = "item",
+			},
+			[4811] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "The Red Crystal",
+				["criteria_1_text"] = "Locate the large, red crystal on Darkshore's eastern mountain range",
+				["special_item"] = false,
+				["level"] = 14,
+				["criteria_1_type"] = "event",
+			},
+			[952] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Grove of the Ancients",
+				["criteria_1_text"] = "Deliver Fandral's message to Onu in the Grove of the Ancients in Darkshore, south of Auberdine.",
+				["special_item"] = false,
+				["level"] = 11,
+				["criteria_1_type"] = "log",
+			},
+			[963] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "For Love Eternal",
+				["criteria_1_text"] = "Anaya's Pendant: 0/1",
+				["special_item"] = false,
+				["criteria_1_type"] = "item",
+				["items_reward"] = {
+					[5611] = 1,
+				},
+				["level"] = 16,
+			},
+			[947] = {
+				["groupcount"] = 0,
+				["criteria_2_text"] = "Death Cap: 0/1",
+				["criteria_1_text"] = "Scaber Stalk: 0/5",
+				["special_item"] = false,
+				["items_reward"] = {
+					[5610] = 1,
+					[4605] = 10,
+				},
+				["name"] = "Cave Mushrooms",
+				["daily"] = false,
+				["level"] = 17,
+				["criteria_1_type"] = "item",
+				["criteria_2_type"] = "item",
+			},
+			[984] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "How Big a Threat?",
+				["criteria_1_text"] = "Find a corrupt furbolg camp",
+				["special_item"] = false,
+				["level"] = 14,
+				["criteria_1_type"] = "event",
+			},
+		},
+		["version"] = 8,
+	},
+}
+QuestHelper_Collector_Version = 8

@@ -1,0 +1,115 @@
+
+DataStore_MailsDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["lastUpdate"] = 1622354237,
+				["Mails"] = {
+					{
+						["lastCheck"] = 1622354237,
+						["sender"] = "Binjy Featherwhistle",
+						["subject"] = "Learn to Ride in Dun Morogh",
+						["money"] = 0,
+						["text"] = "Salutations, Lavinia! Looking to get around faster? Then come visit Milli and me at Steelgrill's Depot, just northeast of Kharanos.\n\nMy riding trainer's fee is only four gold coins, and if you want your own mechanostrider, Milli builds them for no more than one gold coin each!\n\nHoping to see you soon, Binjy",
+						["icon"] = "Interface\\Icons\\INV_Misc_Note_01",
+						["daysLeft"] = 27.06244277954102,
+					}, -- [1]
+					{
+						["lastCheck"] = 1622354237,
+						["sender"] = "Chromie",
+						["subject"] = "Chromies reward for You!",
+						["money"] = 0,
+						["text"] = "Hello Lavinia and congratulations! \n\nThe bronze Dragonflight would like to inform you that you were the 5312nd adventurer to reach the 20th level of mastery.\nYour adventures have made me take notice of you, take this small reward as a token of my appreciation.\nGo forth!\n\nKind regards,\nChromie",
+						["icon"] = "Interface\\Icons\\INV_Misc_Note_01",
+						["daysLeft"] = 27.06244277954102,
+					}, -- [2]
+					{
+						["lastCheck"] = 1622354237,
+						["sender"] = "The Postmaster",
+						["subject"] = "Recovered Item",
+						["money"] = 0,
+						["text"] = "We recovered a lost item in the twisting nether and noted that it was yours.\n\nPlease find said object enclosed.",
+						["icon"] = "Interface\\Icons\\INV_Misc_Note_01",
+						["daysLeft"] = 29.01541709899902,
+					}, -- [3]
+					{
+						["sender"] = "Blackwater Auction House",
+						["count"] = 1,
+						["link"] = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:26|h[Moss Agate]|h|r",
+						["lastCheck"] = 1622354237,
+						["icon"] = "Interface\\Icons\\INV_Misc_Gem_Emerald_02",
+						["daysLeft"] = 29.93427085876465,
+					}, -- [4]
+					{
+						["sender"] = "Blackwater Auction House",
+						["count"] = 4,
+						["link"] = "|cffffffff|Hitem:3174:0:0:0:0:0:0:0:26|h[Spider Ichor]|h|r",
+						["lastCheck"] = 1622354237,
+						["icon"] = "Interface\\Icons\\INV_Misc_Slime_01",
+						["daysLeft"] = 29.93427085876465,
+					}, -- [5]
+					{
+						["sender"] = "Blackwater Auction House",
+						["count"] = 1,
+						["link"] = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:26|h[Heavy Stone]|h|r",
+						["lastCheck"] = 1622354237,
+						["icon"] = "Interface\\Icons\\INV_Stone_12",
+						["daysLeft"] = 29.93427085876465,
+					}, -- [6]
+					{
+						["sender"] = "Blackwater Auction House",
+						["count"] = 2,
+						["link"] = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:26|h[Bruiseweed]|h|r",
+						["lastCheck"] = 1622354237,
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_01",
+						["daysLeft"] = 29.93427085876465,
+					}, -- [7]
+					{
+						["sender"] = "Blackwater Auction House",
+						["count"] = 15,
+						["link"] = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:26|h[Peacebloom]|h|r",
+						["lastCheck"] = 1622354237,
+						["icon"] = "Interface\\Icons\\INV_Misc_Flower_02",
+						["daysLeft"] = 29.93427085876465,
+					}, -- [8]
+					{
+						["sender"] = "Blackwater Auction House",
+						["count"] = 7,
+						["link"] = "|cffffffff|Hitem:732:0:0:0:0:0:0:0:26|h[Okra]|h|r",
+						["lastCheck"] = 1622354237,
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_05",
+						["daysLeft"] = 29.93496513366699,
+					}, -- [9]
+					{
+						["sender"] = "Blackwater Auction House",
+						["count"] = 1,
+						["link"] = "|cffffffff|Hitem:2587:0:0:0:0:0:0:0:26|h[Gray Woolen Shirt]|h|r",
+						["lastCheck"] = 1622354237,
+						["icon"] = "Interface\\Icons\\INV_Shirt_Grey_01",
+						["daysLeft"] = 29.93496513366699,
+					}, -- [10]
+					{
+						["sender"] = "Blackwater Auction House",
+						["count"] = 7,
+						["link"] = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:26|h[Earthroot]|h|r",
+						["lastCheck"] = 1622354237,
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_07",
+						["daysLeft"] = 29.93496513366699,
+					}, -- [11]
+					{
+						["lastCheck"] = 1622354237,
+						["sender"] = "Blackwater Auction House",
+						["subject"] = "Auction successful: Wool Cloth",
+						["money"] = 1389,
+						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
+						["daysLeft"] = 29.93906211853027,
+					}, -- [12]
+				},
+				["lastVisitDate"] = "2021/05/30 01:57",
+			},
+		},
+	},
+}

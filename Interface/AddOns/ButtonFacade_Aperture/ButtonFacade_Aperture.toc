@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: ButtonFacade: |cff00d3ffAperture|r
+## Version: 1.0
+## Notes: Aperture Sceince skin for ButtonFacade.
+## Author: Suicidal Katt
+## Dependencies: ButtonFacade
+
+Skins.lua

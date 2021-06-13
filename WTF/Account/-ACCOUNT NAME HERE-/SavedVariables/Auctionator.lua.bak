@@ -1,0 +1,52 @@
+
+AUCTIONATOR_SAVEDVARS = {
+	["_5000000"] = 50000,
+	["_50000"] = 1000,
+	["_10000"] = 500,
+	["_1000000"] = 10000,
+	["_200000"] = 5000,
+	["STARTING_DISCOUNT"] = 10,
+	["_500"] = 100,
+	["_2000"] = 200,
+}
+AUCTIONATOR_PRICING_HISTORY = {
+}
+AUCTIONATOR_SHOPPING_LISTS = {
+	{
+		["items"] = {
+		},
+		["isRecents"] = 1,
+		["name"] = "Recent Searches",
+	}, -- [1]
+	{
+		["items"] = {
+			"Greater Cosmic Essence", -- [1]
+			"Infinite Dust", -- [2]
+			"Dream Shard", -- [3]
+			"Abyss Crystal", -- [4]
+		},
+		["name"] = "Sample Shopping List #1",
+		["isSorted"] = false,
+	}, -- [2]
+}
+AUCTIONATOR_PRICE_DATABASE = {
+	["__dbversion"] = 2,
+	["ChromieCraft_Alliance"] = {
+		["Boar Intestines"] = 100,
+		["Linked Chain Shoulderpads"] = 1000,
+		["Double Mail Coif"] = 4500,
+		["Patched Leather Shoulderpads"] = 1000,
+		["Interlaced Cowl"] = 50000,
+		["Chipped Boar Tusk"] = 201299,
+	},
+}
+AUCTIONATOR_LAST_SCAN_TIME = 1622167338
+AUCTIONATOR_TOONS = {
+	["Lavinia"] = {
+		["firstSeen"] = 1622167217,
+		["firstVersion"] = "2.6.8",
+	},
+}
+AUCTIONATOR_STACKING_PREFS = {
+}
+AUCTIONATOR_SCAN_MINLEVEL = 1

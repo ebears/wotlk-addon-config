@@ -1,0 +1,12 @@
+
+SkadaCharDB = {
+	["improvement"] = {
+		["id"] = "0x0000000000008813",
+		["class"] = "MAGE",
+		["name"] = "Lavinia",
+		["bosses"] = {
+		},
+	},
+	["sets"] = {
+	},
+}

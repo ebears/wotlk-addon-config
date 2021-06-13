@@ -1,0 +1,13 @@
+
+OvaleDB = {
+	["profileKeys"] = {
+		["Rayne - ChromieCraft"] = "Rayne - ChromieCraft",
+	},
+	["profiles"] = {
+		["Rayne - ChromieCraft"] = {
+			["check"] = {
+				["whirlwind"] = true,
+			},
+		},
+	},
+}

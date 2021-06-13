@@ -1,0 +1,10 @@
+
+DrDamageDB = {
+	["profileKeys"] = {
+		["Rayne - ChromieCraft"] = "Rayne - ChromieCraft",
+	},
+	["profiles"] = {
+		["Rayne - ChromieCraft"] = {
+		},
+	},
+}

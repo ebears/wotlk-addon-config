@@ -1,0 +1,16 @@
+MACRO 4 "Chicken" Spell_Magic_PolymorphChicken
+/chicken
+END
+MACRO 1 "Decursive" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod,exists] Remove Curse;  [target=mouseover,exists,mod:ctrl] Polymorph; [target=mouseover,exists,mod:shift] Remove Curse
+END
+MACRO 2 "Revenge/Overpowe" Spell_Nature_Polymorph_Cow
+#showtooltip [stance:1/3] Overpower; Revenge
+/cast [stance:2] Revenge
+/cast [stance:1] Overpower
+END
+MACRO 5 "slow fall" INV_Misc_QuestionMark
+/tar Endermer
+/cast Slow Fall
+END

@@ -1,0 +1,12 @@
+
+ButtonFacadeDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Gloss"] = 0,
+			["SkinID"] = "Caith",
+		},
+	},
+}

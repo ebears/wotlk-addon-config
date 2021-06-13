@@ -1,0 +1,30 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["XPMax"] = 30500,
+				["played"] = 139291,
+				["isResting"] = 1,
+				["lastUpdate"] = 1622354243,
+				["class"] = "Mage",
+				["race"] = "Gnome",
+				["level"] = 26,
+				["XP"] = 29744,
+				["RestXP"] = 984,
+				["money"] = 100972,
+				["gender"] = 3,
+				["subZone"] = "Trade District",
+				["name"] = "Lavinia",
+				["faction"] = "Alliance",
+				["englishRace"] = "Gnome",
+				["zone"] = "Stormwind City",
+				["lastLogoutTimestamp"] = 1622354243,
+				["englishClass"] = "MAGE",
+			},
+		},
+	},
+}

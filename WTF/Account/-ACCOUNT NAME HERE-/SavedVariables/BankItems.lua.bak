@@ -1,0 +1,200 @@
+
+BankItems_Save = {
+	["Rayne|ChromieCraft"] = {
+		["Bag102"] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_ChampionsGrace",
+			["size"] = 4,
+		},
+		["money"] = 12489,
+		["faction"] = "Alliance",
+		["location"] = "Darkshore",
+		["Bag-2"] = {
+			["icon"] = "Interface\\ContainerFrame\\KeyRing-Bag-Icon",
+			["size"] = 4,
+		},
+		["NumBankSlots"] = 0,
+		["Bag2"] = {
+			{
+				["count"] = 17,
+				["link"] = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:13|h[Linen Cloth]|h|r",
+			}, -- [1]
+			{
+				["link"] = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:13|h[Mageroyal]|h|r",
+			}, -- [2]
+			{
+				["link"] = "|cffffffff|Hitem:730:0:0:0:0:0:0:0:13|h[Murloc Eye]|h|r",
+			}, -- [3]
+			{
+				["link"] = "|cffffffff|Hitem:2675:0:0:0:0:0:0:0:13|h[Crawler Claw]|h|r",
+			}, -- [4]
+			{
+				["count"] = 3,
+				["link"] = "|cffffffff|Hitem:2674:0:0:0:0:0:0:0:13|h[Crawler Meat]|h|r",
+			}, -- [5]
+			{
+				["count"] = 6,
+				["link"] = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:13|h[Clam Meat]|h|r",
+			}, -- [6]
+			{
+				["count"] = 4,
+				["link"] = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:13|h[Malachite]|h|r",
+			}, -- [7]
+			{
+				["link"] = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:13|h[Tigerseye]|h|r",
+			}, -- [8]
+			["size"] = 8,
+			["link"] = "|cffffffff|Hitem:4240:0:0:0:0:0:0:0:13|h[Woolen Bag]|h|r",
+		},
+		["Bag0"] = {
+			{
+				["count"] = 3,
+				["link"] = "|cffffffff|Hitem:5523:0:0:0:0:0:0:0:13|h[Small Barnacled Clam]|h|r",
+			}, -- [1]
+			{
+				["count"] = 3,
+				["link"] = "|cffffffff|Hitem:5412:0:0:0:0:0:0:0:13|h[Thresher Eye]|h|r",
+			}, -- [2]
+			{
+				["link"] = "|cff9d9d9d|Hitem:3169:0:0:0:0:0:0:0:13|h[Chipped Bear Tooth]|h|r",
+			}, -- [3]
+			{
+				["link"] = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:13|h[Shadowgem]|h|r",
+			}, -- [4]
+			{
+				["link"] = "|cffffffff|Hitem:3173:0:0:0:0:0:0:0:13|h[Bear Meat]|h|r",
+			}, -- [5]
+			[12] = {
+				["link"] = "|cffffffff|Hitem:7586:0:0:0:0:0:0:0:13|h[Tharnariun's Hope]|h|r",
+			},
+			[14] = {
+				["link"] = "|cffffffff|Hitem:5390:0:0:0:0:0:0:0:13|h[Fandral's Message]|h|r",
+			},
+			[13] = {
+				["link"] = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:13|h[Hearthstone]|h|r",
+			},
+			["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+			["size"] = 16,
+		},
+		["Bag1"] = {
+			nil, -- [1]
+			{
+				["count"] = 400,
+				["link"] = "|cffffffff|Hitem:2512:0:0:0:0:0:0:0:13|h[Rough Arrow]|h|r",
+			}, -- [2]
+			{
+				["count"] = 11,
+				["link"] = "|cffffffff|Hitem:4604:0:0:0:0:0:0:0:13|h[Forest Mushroom Cap]|h|r",
+			}, -- [3]
+			{
+				["count"] = 9,
+				["link"] = "|cffffffff|Hitem:5465:0:0:0:0:0:0:0:13|h[Small Spider Leg]|h|r",
+			}, -- [4]
+			{
+				["count"] = 18,
+				["link"] = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:13|h[Small Egg]|h|r",
+			}, -- [5]
+			{
+				["link"] = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:13|h[Peacebloom]|h|r",
+				["count"] = 6,
+			}, -- [6]
+			{
+				["count"] = 20,
+				["link"] = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:13|h[Linen Cloth]|h|r",
+			}, -- [7]
+			{
+				["count"] = 20,
+				["link"] = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:13|h[Linen Cloth]|h|r",
+			}, -- [8]
+			["size"] = 8,
+			["link"] = "|cffffffff|Hitem:4240:0:0:0:0:0:0:0:13|h[Woolen Bag]|h|r",
+		},
+		["Bag100"] = {
+			nil, -- [1]
+			nil, -- [2]
+			nil, -- [3]
+			{
+				["link"] = "|cffffffff|Hitem:6120:0:0:0:0:0:0:0:13|h[Recruit's Shirt]|h|r",
+			}, -- [4]
+			{
+				["link"] = "|cffffffff|Hitem:10656:0:0:0:0:0:0:0:13|h[Barkmail Vest]|h|r",
+			}, -- [5]
+			{
+				["link"] = "|cffffffff|Hitem:5592:0:0:0:0:0:0:0:13|h[Shackled Girdle]|h|r",
+			}, -- [6]
+			{
+				["link"] = "|cff1eff00|Hitem:15485:0:0:0:0:0:97:0:13|h[War Torn Pants of Strength]|h|r",
+			}, -- [7]
+			{
+				["link"] = "|cffffffff|Hitem:18612:0:0:0:0:0:0:0:13|h[Bloody Chain Boots]|h|r",
+			}, -- [8]
+			{
+				["link"] = "|cffffffff|Hitem:15400:0:0:0:0:0:0:0:13|h[Clamshell Bracers]|h|r",
+			}, -- [9]
+			{
+				["link"] = "|cffffffff|Hitem:5394:0:0:0:0:0:0:0:13|h[Archery Training Gloves]|h|r",
+			}, -- [10]
+			nil, -- [11]
+			nil, -- [12]
+			nil, -- [13]
+			nil, -- [14]
+			{
+				["link"] = "|cffffffff|Hitem:9745:0:0:0:0:0:0:0:13|h[Simple Cape]|h|r",
+			}, -- [15]
+			{
+				["link"] = "|cff1eff00|Hitem:6969:0:0:0:0:0:0:0:13|h[Elunite Dagger]|h|r",
+			}, -- [16]
+			{
+				["link"] = "|cff1eff00|Hitem:15298:0:0:0:0:0:228:0:13|h[Grizzly Buckler of the Wolf]|h|r",
+			}, -- [17]
+			{
+				["link"] = "|cff1eff00|Hitem:8180:0:0:0:0:0:0:0:13|h[Hunting Bow]|h|r",
+			}, -- [18]
+			[20] = {
+				["count"] = 400,
+				["link"] = "|cffffffff|Hitem:2512:0:0:0:0:0:0:0:13|h[Rough Arrow]|h|r",
+			},
+			["icon"] = "Interface\\Icons\\INV_Shirt_White_01",
+			["size"] = 20,
+		},
+	},
+	["ExportPrefix"] = true,
+	["ButtonShown"] = true,
+	["Behavior"] = {
+		false, -- [1]
+		false, -- [2]
+		false, -- [3]
+		false, -- [4]
+		false, -- [5]
+		false, -- [6]
+	},
+	["GroupExportData"] = false,
+	["pospoint"] = "TOPLEFT",
+	["LockWindow"] = true,
+	["WindowStyle"] = 1,
+	["ButtonRadius"] = 78,
+	["TooltipInfo"] = true,
+	["GBposoffsetx"] = 50,
+	["Scale"] = 80,
+	["GBpospoint"] = "TOPLEFT",
+	["BagParent"] = 1,
+	["GBposrelpoint"] = "TOPLEFT",
+	["TTSoulbound"] = true,
+	["SearchAllRealms"] = false,
+	["Behavior2"] = {
+		true, -- [1]
+		true, -- [2]
+		false, -- [3]
+		true, -- [4]
+		false, -- [5]
+	},
+	["posrelpoint"] = "TOPLEFT",
+	["posoffsety"] = -104,
+	["Transparency"] = 100,
+	["ButtonPosition"] = 345,
+	["ShowOppositeFaction"] = false,
+	["posoffsetx"] = 50,
+	["GBposoffsety"] = -104,
+	["Upgraded"] = 3,
+}
+BankItems_SaveGuild = {
+}

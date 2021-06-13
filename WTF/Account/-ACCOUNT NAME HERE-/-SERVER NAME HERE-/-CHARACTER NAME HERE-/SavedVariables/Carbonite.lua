@@ -1,0 +1,27 @@
+
+NxCData = {
+	["Version"] = 0.1,
+	["Taxi"] = {
+		["Refuge Pointe"] = true,
+		["Thorium Point"] = true,
+		["Theramore"] = true,
+		["Aerie Peak"] = true,
+		["Lakeshire"] = true,
+		["Menethil Harbor"] = true,
+		["Booty Bay"] = true,
+		["Chillwind Camp"] = true,
+		["Nijel's Point"] = true,
+		["Gadgetzan"] = true,
+		["Darkshire"] = true,
+		["Morgan's Vigil"] = true,
+		["Mudsprocket"] = true,
+		["Ironforge"] = true,
+		["Stormwind"] = true,
+		["Thelsamar"] = true,
+		["Sentinel Hill"] = true,
+		["Thalanaar"] = true,
+		["Rebel Camp"] = true,
+		["Ratchet"] = true,
+		["Southshore"] = true,
+	},
+}

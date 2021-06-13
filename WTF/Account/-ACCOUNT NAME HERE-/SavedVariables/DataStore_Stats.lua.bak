@@ -1,0 +1,24 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["lastUpdate"] = 1622354102,
+				["Stats"] = {
+					["Ranged"] = "34-63|1.9000000902452|18|0|4.3043999671936",
+					["Spell"] = "28|28|0|5.6265001296997|0|46",
+					["Melee"] = "48-73|3.0000001424924|8|0|2.9844000339508|0",
+					["MaxPower"] = "0|2050",
+					["PVP"] = "0|0|0|0",
+					["HealthMax"] = 573,
+					["Resistances"] = "0|0|0|0|0|0",
+					["Base"] = "18|28|42|121|81|303",
+					["Defense"] = "303|127|5.0433959960938|0|0|0",
+				},
+			},
+		},
+	},
+}

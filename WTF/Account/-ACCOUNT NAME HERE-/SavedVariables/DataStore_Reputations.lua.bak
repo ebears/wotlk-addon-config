@@ -1,0 +1,20 @@
+
+DataStore_ReputationsDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["lastUpdate"] = 1622354102,
+				["Factions"] = {
+					["Exodar"] = "9000|21000|10627",
+					["Ironforge"] = "9000|21000|19372",
+					["Stormwind"] = "9000|21000|20305",
+					["Gnomeregan Exiles"] = "9000|21000|16632",
+					["Darnassus"] = "9000|21000|10727",
+				},
+			},
+		},
+	},
+}

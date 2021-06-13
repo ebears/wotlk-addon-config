@@ -1,0 +1,19 @@
+
+DataStore_PetsDB = {
+	["profileKeys"] = {
+		["Lavinia - ChromieCraft"] = "Lavinia - ChromieCraft",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.ChromieCraft.Lavinia"] = {
+				["lastUpdate"] = 1622354213,
+				["CRITTER"] = {
+					"7386|White Kitten|10679|INV_Box_PetCarrier_01", -- [1]
+				},
+				["MOUNT"] = {
+					"7749|Blue Mechanostrider|10969|Ability_Mount_MechaStrider", -- [1]
+				},
+			},
+		},
+	},
+}

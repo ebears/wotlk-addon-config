@@ -1,0 +1,17 @@
+## Interface: 30100
+## Title: ButtonFacade: |cffff8000Rectangle|r
+## Version: 1.0
+## Notes: Rectangle skin for ButtonFacade.
+## Notes-deDE: Rectangle Skins für ButtonFacade.
+## Notes-esMX: Rectangle texturas para ButtonFacade.
+## Notes-esES: Rectangle texturas para ButtonFacade.
+## Notes-frFR: Skin Rectangle pour ButtonFacade.
+## Notes-koKR: ButtonFacade에 대한 Rectangle 스킨.
+## Notes-ruRU: Rectangle Шкурки для ButtonFacade.
+## Notes-zhCN: 为ButtonFacade Rectangle皮肤。
+## Notes-zhTW: Rectangle皮膚的ButtonFacade。
+## Author: E. Mars
+## X-Category: Action Bars
+## Dependencies: ButtonFacade
+
+Skins.lua
