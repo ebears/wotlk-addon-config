@@ -2,7 +2,7 @@
 
 ❓ Addons are within [/Interface/Addons](https://github.com/ebears/wotlk-addon-config/tree/main/Interface/AddOns), my saved addon settings are inside [/WTF](https://github.com/ebears/wotlk-addon-config/tree/main/WTF), and my ElvUI settings are in the [WoW Elvui Config.md](https://github.com/ebears/wotlk-addon-config/blob/main/WoW%20Elvui%20Config.md) file.
 
-🤔 My Warcraft settings are beyond Ultra, changing any graphics settings *will* revert any changes I've made. These are kept within the [/WTF/Config.wtf](https://github.com/ebears/WoW-WotLK-Addon-Config/tree/main/WTF/Config.wtf) file. Big credit to eldarix#6195 in the [ChromieCraft discord](https://discord.com/invite/BYtPEacERr) for sharing these settings. ❤️ I've just added a couple lines to enable Fullscreen Windowed mode. 
+🤔 My Warcraft settings are beyond Ultra, changing any graphics settings *will* revert any changes I've made. These are kept within the [/WTF/Config.wtf](https://github.com/ebears/wotlk-addon-config/tree/main/WTF/Config.wtf) file. Big credit to eldarix#6195 in the [ChromieCraft discord](https://discord.com/invite/BYtPEacERr) for sharing these settings. ❤️ I've just added a couple lines to enable Fullscreen Windowed mode. 
 
 🌺 I play at 1920x1080 at 60fps with Vsync (because my monitor sux 😢) so I would recommend turning off Vsync and changing resolution if you have any problems.
 
