@@ -8,7 +8,7 @@
 🌺 I play at 1920x1080 at 60fps with Vsync (because my monitor sux 😢) so I would first recommend turning off Vsync and changing resolution if you have any problems.
 
 ## ❓ Issues
-🧹 ButtonFacade (Masque) is configured to work with ElvUI, however on interface reloads (and relogs) the action bar buttons glitch out (aka have no background). This is simply fixed by typing "/bf" or going to Esc>Interface>ButtonFacade, and toggling "Enable" for ButtonFacade.
+🧹 ButtonFacade (Masque) is configured to work with ElvUI, however on interface reloads (and relogs) the action bar buttons glitch out (aka have no background). This is simply fixed by typing "/bf" or going to Esc>Interface>ButtonFacade, and toggling "Enable" off then back on under the Backdrop header in the ButtonFacade config.
 
 ## ℹ️ Sources
 [ElvUI](https://github.com/ElvUI-WotLK/ElvUI)\
